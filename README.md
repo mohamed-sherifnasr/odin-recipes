@@ -6,10 +6,8 @@ This project is about the demonstration of different HTML concepts and will late
 
 -This is Where you mention the different concepts included in the project-
 **************************************************************************
--
--
--
--
--
--
+- HTML Linking
+- Basic Layout
+- Image Handling
+- Handling Multiple Files
 
