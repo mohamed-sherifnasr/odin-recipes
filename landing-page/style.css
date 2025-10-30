@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	font-family: 'Robto', sans-serif;
+	font-weight: 400;
+}
+
+.section2, .section3, .section4 {
+	flex: 1;
+}
+
+.header {
+	display: flex;
+	gap: 15px;
+	margin-bottom: 50px;
+}
+
+.header-links {
+	color: #e5e7eb;
+	font-size: 18px;
+}
+
+.logo {
+	margin-right: auto;
+	font-size: 24px;
+}
+
+.section1 {
+	padding: 10px 200px;
+	height: auto;
+	background-color: #1f2937;
+	color: rgb(200, 199, 199);
+}
+
+.logo, .content1-title {
+	color: #f9faf8;
+}
+
+.content1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 55%;
+	flex: 1;
+	padding: 10px 115px;
+	gap: 8px;
+}
+
+.content1-img {
+	background-color: rgba(208, 208, 208, 0.421);
+	width: 500px;
+	text-align: center;
+	padding: 10% 0
+}
+
+.section1-text {
+	display: flex;
+	margin-bottom: 60px;
+}
+
+.content1-title {
+	font-size: 48px;
+	font-family: 900;
+}
+
+.sign-up {
+	background-color: #3882f6;
+	padding: 10px 20px;
+	color: white;
+	align-self:flex-start;
+	font-weight: bolder;
+	border-radius: 10px;
+}
