@@ -9,7 +9,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	font-family: 'Robto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 }
 
@@ -70,7 +70,7 @@ body {
 
 .content1-title {
 	font-size: 48px;
-	font-family: 900;
+	font-weight: 900;
 }
 
 .sign-up {
